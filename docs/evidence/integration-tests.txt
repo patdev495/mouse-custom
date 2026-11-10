@@ -1,0 +1,27 @@
+test_appearance_controls_are_named_and_round_trip (test_desktop.DesktopTests.test_appearance_controls_are_named_and_round_trip) ... ok
+test_color_editor_rejects_non_hex_characters (test_desktop.DesktopTests.test_color_editor_rejects_non_hex_characters) ... ok
+test_corrupt_config_falls_back_to_usable_settings (test_desktop.DesktopTests.test_corrupt_config_falls_back_to_usable_settings) ... ok
+test_disabling_highlight_releases_render_resources (test_desktop.DesktopTests.test_disabling_highlight_releases_render_resources) ... ok
+test_filled_pixels_blend_color_and_allow_click_through (test_desktop.DesktopTests.test_filled_pixels_blend_color_and_allow_click_through) ... ok
+test_global_hotkey_toggles_without_opening_settings (test_desktop.DesktopTests.test_global_hotkey_toggles_without_opening_settings) ... ok
+test_glow_expands_halo_and_survives_restart (test_desktop.DesktopTests.test_glow_expands_halo_and_survives_restart) ... ok
+test_glow_renders_soft_colored_pixels_outside_core (test_desktop.DesktopTests.test_glow_renders_soft_colored_pixels_outside_core) ... ok
+test_glow_survives_monitor_and_topology_response_changes (test_desktop.DesktopTests.test_glow_survives_monitor_and_topology_response_changes) ... ok
+test_highlight_follows_cursor_without_taking_focus (test_desktop.DesktopTests.test_highlight_follows_cursor_without_taking_focus) ... ok
+test_highlight_reacts_to_windows_dpi_changes (test_desktop.DesktopTests.test_highlight_reacts_to_windows_dpi_changes) ... ok
+test_holding_global_hotkey_does_not_toggle_repeatedly (test_desktop.DesktopTests.test_holding_global_hotkey_does_not_toggle_repeatedly) ... ok
+test_hotkey_conflict_preserves_old_then_new_choice_survives_restart (test_desktop.DesktopTests.test_hotkey_conflict_preserves_old_then_new_choice_survives_restart) ... ok
+test_moved_portable_repairs_startup_registration (test_desktop.DesktopTests.test_moved_portable_repairs_startup_registration) ... ok
+test_negative_windows_coordinates_are_not_clamped (test_desktop.DesktopTests.test_negative_windows_coordinates_are_not_clamped) ... ok
+test_portable_config_controls_highlight_diameter (test_desktop.DesktopTests.test_portable_config_controls_highlight_diameter) ... ok
+test_read_only_configuration_reports_save_failure (test_desktop.DesktopTests.test_read_only_configuration_reports_save_failure) ... ok
+test_ring_center_is_empty_and_outline_is_colored (test_desktop.DesktopTests.test_ring_center_is_empty_and_outline_is_colored) ... ok
+test_ring_choice_survives_closing_settings_and_restarting (test_desktop.DesktopTests.test_ring_choice_survives_closing_settings_and_restarting) ... ok
+test_startup_failure_does_not_claim_success (test_desktop.DesktopTests.test_startup_failure_does_not_claim_success) ... ok
+test_startup_rolls_back_when_config_cannot_be_saved (test_desktop.DesktopTests.test_startup_rolls_back_when_config_cannot_be_saved) ... ok
+test_startup_toggle_registers_quoted_portable_path (test_desktop.DesktopTests.test_startup_toggle_registers_quoted_portable_path) ... ok
+
+----------------------------------------------------------------------
+Ran 22 tests in 12.403s
+
+OK

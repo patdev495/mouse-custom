@@ -1,0 +1,129 @@
+{
+  "platform": "Windows-11-10.0.26200-SP0",
+  "architecture": "AMD64",
+  "logical_cpus": 12,
+  "physical_monitor_count": 1,
+  "dpi": 144,
+  "executable_bytes": 190464,
+  "executable_sha256": "cdbb2463142994bc5612831dbc89bb699bc773fb3cf16feae6fd4806d9faedc0",
+  "notes": "Single physical monitor. No EmptyWorkingSet or SetProcessWorkingSetSize calls.",
+  "states": {
+    "fresh_background_idle": {
+      "working_set_bytes": 10485760,
+      "private_bytes": 1712128,
+      "gdi_objects": 2,
+      "user_objects": 5,
+      "handles": 135,
+      "cpu_percent_one_core": 0.781,
+      "sample_seconds": 2.0
+    },
+    "background_moving": {
+      "working_set_bytes": 10489856,
+      "private_bytes": 1712128,
+      "gdi_objects": 2,
+      "user_objects": 5,
+      "handles": 135,
+      "cpu_percent_one_core": 1.562,
+      "sample_seconds": 2.0
+    },
+    "highlight_off_idle": {
+      "working_set_bytes": 10477568,
+      "private_bytes": 1687552,
+      "gdi_objects": 0,
+      "user_objects": 4,
+      "handles": 135,
+      "cpu_percent_one_core": 0.0,
+      "sample_seconds": 2.0
+    },
+    "settings_open": {
+      "working_set_bytes": 16695296,
+      "private_bytes": 2441216,
+      "gdi_objects": 24,
+      "user_objects": 40,
+      "handles": 197,
+      "cpu_percent_one_core": 0.775,
+      "sample_seconds": 2.015
+    },
+    "glow_on_idle": {
+      "working_set_bytes": 16777216,
+      "private_bytes": 2465792,
+      "gdi_objects": 24,
+      "user_objects": 40,
+      "handles": 197,
+      "cpu_percent_one_core": 0.0,
+      "sample_seconds": 2.0
+    },
+    "glow_on_moving": {
+      "working_set_bytes": 16785408,
+      "private_bytes": 2469888,
+      "gdi_objects": 28,
+      "user_objects": 42,
+      "handles": 197,
+      "cpu_percent_one_core": 2.344,
+      "sample_seconds": 2.0
+    },
+    "settings_closed_glow_on": {
+      "working_set_bytes": 16793600,
+      "private_bytes": 2453504,
+      "gdi_objects": 19,
+      "user_objects": 14,
+      "handles": 197,
+      "cpu_percent_one_core": 0.781,
+      "sample_seconds": 2.0
+    },
+    "maximum_size_glow_on_moving": {
+      "working_set_bytes": 18186240,
+      "private_bytes": 3145728,
+      "gdi_objects": 20,
+      "user_objects": 14,
+      "handles": 197,
+      "cpu_percent_one_core": 2.326,
+      "sample_seconds": 2.015
+    }
+  },
+  "thirty_settings_glow_style_hotkey_cycles": {
+    "before": {
+      "working_set_bytes": 16793600,
+      "private_bytes": 2453504,
+      "gdi_objects": 19,
+      "user_objects": 14,
+      "handles": 197
+    },
+    "checkpoints": [
+      {
+        "cycles": 10,
+        "working_set_bytes": 16809984,
+        "private_bytes": 2453504,
+        "gdi_objects": 19,
+        "user_objects": 16,
+        "handles": 197
+      },
+      {
+        "cycles": 20,
+        "working_set_bytes": 16846848,
+        "private_bytes": 2473984,
+        "gdi_objects": 20,
+        "user_objects": 16,
+        "handles": 197
+      },
+      {
+        "cycles": 30,
+        "working_set_bytes": 16846848,
+        "private_bytes": 2473984,
+        "gdi_objects": 20,
+        "user_objects": 16,
+        "handles": 197
+      }
+    ],
+    "after": {
+      "working_set_bytes": 16846848,
+      "private_bytes": 2473984,
+      "gdi_objects": 20,
+      "user_objects": 14,
+      "handles": 197,
+      "cpu_percent_one_core": 0.0,
+      "sample_seconds": 2.016
+    }
+  },
+  "graceful_exit_code": 0
+}

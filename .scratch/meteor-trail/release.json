@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "architecture": "x64",
+  "build": "Release /MT",
+  "executable_bytes": 202752,
+  "executable_sha256": "b66be0d49fc8570ee6ac1e0036d75dbff73942b000fd6de0f697fde5bd1dc6c8",
+  "archive_bytes": 106128,
+  "archive_sha256": "955fcacf9da6ce61e0c909f612f4e430377e7106c638dd5c01881d0a8f2a8d30",
+  "existing_settings_preserved": true,
+  "final_interactive_and_performance_testing": "delegated to user by request",
+  "development_tdd_checks_passed": 3,
+  "notes": "Three meteor checks passed before final version and label changes. Historical 22-test and resource reports refer to 0.1.0, not this binary."
+}

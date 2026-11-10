@@ -1,0 +1,10 @@
+{
+  "executable": "D:\\Workspace\\mouse-options\\dist\\MouseOptions-x64\\MouseOptions.exe",
+  "executable_sha256": "cdbb2463142994bc5612831dbc89bb699bc773fb3cf16feae6fd4806d9faedc0",
+  "tests_run": 22,
+  "successful": true,
+  "failures": [],
+  "errors": [],
+  "skipped": [],
+  "note": "See testing.md for system-boundary replay versus physical-hardware coverage."
+}
